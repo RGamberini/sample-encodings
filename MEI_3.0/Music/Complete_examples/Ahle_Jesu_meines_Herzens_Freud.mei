@@ -129,6 +129,7 @@
               <staffGrp n="1" barthru="false" symbol="bracket">
                 <staffDef n="1" lines="5" clef.line="2" clef.shape="G"/>
                 <staffDef n="2" lines="5" clef.line="4" clef.shape="F"/>
+                <instrDef midi.volume="0%"/>
               </staffGrp>
             </scoreDef>
             <section>
